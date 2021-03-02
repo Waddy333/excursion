@@ -35,3 +35,12 @@ h2{
   color: gray;
   font-weight: normal;
 }
+
+/*footer*/
+
+footer p {
+  text-align: right;
+  color: gray;
+  font-weight: bold;
+
+}
